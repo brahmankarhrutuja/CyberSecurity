@@ -7,3 +7,11 @@
 6. Phishing - The use of didgital communication to trick people into revealing sensitive data or deploying malicious software.
 7. Spear Phishing - Malicious email attack targeting a specific user to group of users that appears to originate from trusted source.
 8. Whaling - Form of spear phishhing during which threat actors target executives in order to gain access to sensitive data.
+9. Password attack - A password attack is an attempt to access password-secured devices, systems, networks, or data.
+10. Social engineering attack - Social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables.
+11. Physical attack - A physical attack is a security incident that affects not only digital but also physical environments where the incident is deployed. 
+12. Supply-chain attack - A supply-chain attack targets systems, applications, hardware, and/or software to locate a vulnerability where malware can be deployed. 
+Because every item sold undergoes a process that involves third parties, this means that the security breach can occur at any point in the supply chain. 
+These attacks are costly because they can affect multiple organizations and the individuals who work for them.
+Supply-chain attacks can fall under several domains, including but not limited to the security and risk management, security architecture and engineering, and security operations domains.
+13. Cryptographic attack - A cryptographic attack affects secure forms of communication between a sender and intended recipient.
