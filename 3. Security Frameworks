@@ -1,0 +1,40 @@
+Security Frameworks: 
+            guideliens used for building plans to help mitigate risk and threats to data and privacy.
+
+*Purpose of Security Frameworks* 
+    1) Protecting Personal Indentity Information
+    2) Securing Financial information 
+    3) Identifying security weaknesses
+    4) Managing organizational risks
+    5) Aligning security with business goals
+
+# Four core Components of frameworks -
+                    ___      
+                   |   1) Goals - Identifying and documenting security goals
+        GDPR ----  |   2) Guidelines -  Setting guidelines to achieve security goals
+                   |   3) Processes - Implementing strong security processes
+                   |___4) Communication - Monitoring and communicating results
+
+# Security Controls - Safeguards designed to reduce specific security risks.
+
+# CIA Triad - it is a foundational model that helps inform how organizations consider risk when setting up systems and security policies.
+                                    /\
+                                   /  \
+                                  /    \
+             Confidentiality     /      \     Integrity
+                               /__________\
+                               Availability
+1) Confidentiality - Only authorized users can access specific assets or data.
+                    Ex: Who have access and not have access to data 
+2) Integrity - Data is correct, authentic and reliable.
+              Ex: uses encryption for Safeguard data from being tampered.
+3) Availability - Data is accessible to those who are authorized to access it.
+              Ex:  Employees, managers, etc.
+
+
+# Asset -  Asset is an item perceived as having value to an organization.
+            Ex: A system having aal the bank details and personal data have to keep safe.
+
+**NIST Cybersecurity framework (CSF)** - 
+A voluntary framework that consists of standards, guidelines and best practices to manage cybersecurity risk.
+
