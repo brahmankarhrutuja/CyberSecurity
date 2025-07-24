@@ -18,4 +18,10 @@ PLAYBOOK tool: A manual that provides details about any operational action, Such
                playbook which vary from one organiztion to next can handle a security incident before, during and after it has occured.
 
 Network protocol analyzer: AKA PAcket sniffer. It iis a tool designed to apture and analyze data trafic within a network.
-                           Ex- TCPdump and Wireshark
+                           Ex- TCPdump and Wireshark.
+
+PROGRAMMING LANGUAGE: Organizations used to create a specific set of instructions for a computer to execute tasks.
+                1) Linux - An open source operating system. Linux relies on a command line as a primary user inetrface.
+        a) Structured query language (SQL)- A language used to create, interact with and request information from a database.
+        b) Database: A database is an organized colection of information or data.
+        c) Python: Used to perform tasks that are repetitive and time consuming and that require a high level of detail and accuracy.
