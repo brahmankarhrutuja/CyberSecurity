@@ -1,0 +1,21 @@
+Security Tools:
+        1) SIEM tools
+        2) Playbooks 
+        3) Network protocol analyzers
+        4) Linux Operating System 
+        5) Programming Languages such as SQL and Python
+
+LOG : Log is the record of events that occur within an organizations system. 
+
+SIEM tool : It is an application that coleects and analyzes log data to monitor critical activities ina na organization.
+            SIEM tool collect data from multiple places, then analyze and filter the data to allow security teams to prevent and quickly react to potential security threats.
+              1) SPLUNK - data analysis Platform
+                 SPLUNK ENTERPRISE provides SIEM solutions: it is a self hosted tool that retain, analyze and search an organizations log data
+                 
+              2) Google's Chronicle: Cloud native SIEM tool that store data for search and analysis. cloud native means fast delivery of new features. 
+
+PLAYBOOK tool: A manual that provides details about any operational action, Such as how to respond to an incident. 
+               playbook which vary from one organiztion to next can handle a security incident before, during and after it has occured.
+
+Network protocol analyzer: AKA PAcket sniffer. It iis a tool designed to apture and analyze data trafic within a network.
+                           Ex- TCPdump and Wireshark
