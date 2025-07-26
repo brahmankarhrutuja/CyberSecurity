@@ -1,0 +1,22 @@
+Security Posture : An organization's ability to manage its defense of critical assets and data and react to change.
+
+CISSP's EIGHT SECURITY DOMAINS: 1)  Security and risk management
+                                2) Asset security
+                                3) Security architecture and engineering
+                                4) Communication and network security
+                                5) 
+                                6)
+                                7)
+                                8) 
+
+1) #Security and risk management: Defining security goals and objectives, risk mitigation, compliance, business continuity, and legal regulations. 
+        Let's discuss each area of focus in more detail:
+        a) Risk mitigation: Risk mitigation means having the right procedures and rules in place to quickly reduce the impact of a risk like a breach.
+        b) Compliance: Compliance is the primary method used to develop an organization's internal security policies, regulatory requirements, and independent standards.
+        c) Business continuity: Business continuity relates to an organization's ability to maintain their everyday productivity by establishing risk disaster recovery plans.
+2) # Asset Security: The asset security domain is focused on securing digital and physical assets. It's also related to the storage, maintenance, retention, and destruction of data. 
+                    This means that assets such as PII or SPII should be securely handled and protected, whether stored on a computer, transferred over a network like the internet, or even physically collected. 
+                    Organizations also need to have policies and procedures that ensure data is properly stored, maintained, retained, and destroyed. 
+                    Knowing what data you have and who has access to it is necessary for having a strong security posture that mitigates risk to critical assets and data.
+
+3) #
