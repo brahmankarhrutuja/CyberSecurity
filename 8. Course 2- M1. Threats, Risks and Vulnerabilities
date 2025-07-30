@@ -17,3 +17,15 @@
 
                 c) A high-risk asset: A high-risk asset is any information protected by regulations or laws, which if compromised, would have a severe negative impact on an organization's finances, ongoing operations, or reputation. 
                 This could include leaked assets with SPII, PII, or intellectual property.
+
+3) Vulnerability - A vulnerability is a weakness that can be exploited by a threat. And it's worth noting that both a vulnerability and threat must be present for there to be a risk. 
+                   Examples of vulnerabilities include: an outdated firewall, software, or application; weak passwords; or unprotected confidential data. People can also be considered a vulnerability. 
+                   People's actions can significantly affect an organization's internal network. Whether it's a client, external vendor, or employee, maintaining security must be a united effort.
+
+RANSOMWARE - Ransomware is a malicious attack where threat actors encrypt an organization's data then demand payment to restore access. 
+             Once ransomware is deployed by an attacker, it can freeze network systems, leave devices unusable, and encrypt, or lock confidential data, making devices inaccessible. 
+             The threat actor then demands a ransom before providing a decryption key to allow organizations to return to their normal business operations. 
+             Think of a decryption key as a password provided to regain access to your data. Note that when ransom negotiations occur or data is leaked by threat actors, these events can occur through the dark web.
+
+National Institute of Standards and Technology(NIST), provides many frameworks that are used by security professionals to manage risks, threats, and vulnerabilities.
+Seven steps in the RMF: Prepare, categorize, select, implement, assess, authorize, and monitor.
