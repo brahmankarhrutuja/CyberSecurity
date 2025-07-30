@@ -1,0 +1,23 @@
+ CIA Triad - Confidentiality, Integrity and Availability
+
+The CIA triad is a model that helps inform how organizations consider risk when setting up systems and security policies. 
+As a reminder, the three letters in the CIA triad stand for confidentiality, integrity, and availability. 
+As an entry-level analyst, you'll find yourself constantly referring to these three core principles as you work to protect your organization and the people it serves.
+
+1) CONFIDENTIALITY - Confidentiality means that only authorized users can access specific assets or data. Sensitive data should be available on a "need to know" basis, so that only the people who are authorized to handle certain assets or data have access.
+
+2) INTEGRITY - Integrity means that the data is correct, authentic, and reliable. Determining the integrity of data and analyzing how it's used will help you, as a security professional, decide whether the data can or cannot be trusted.
+
+3) AVAILABILITY - Availability means that the data is accessible to those who are authorized to access it. Inaccessible data isn't useful and can prevent people from being able to do their jobs. As a security professional, ensuring that systems, networks, and applications are functioning properly to allow for timely and reliable access, may be a part of your everyday work responsibilities.
+
+#NIST FRAMEWORKS - 
+          The National Institute of Standards and Technology, or NIST's frameworks that can support ongoing security efforts for all types of organizations, including for profit and nonprofit businesses, as well as government agencies. 
+          While NIST is a US based organization, the guidance it provides can help analysts all over the world understand how to implement essential cybersecurity practices. One NIST framework that we'll discuss throughout the program is the NIST Cybersecurity Framework, or CSF.
+
+          1) CSF - The CSF is a voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk. This framework is widely respected and essential for maintaining security regardless of the organization you work for. The CSF consists of five important core functions, identify, protect, detect, respond, and recover.
+                    Identify – Risk ya threat pehchanna
+                    Protect – Data aur assets ko protect karna
+                    Detect – Malicious activity ko jaldi se detect karna
+                    Respond – Attack hone ke baad uska response plan follow karna
+                    Recover – Attack ke baad systems aur data ko wapas normal state mein lana
+
