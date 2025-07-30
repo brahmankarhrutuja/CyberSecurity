@@ -13,4 +13,7 @@
                 This includes public information such as website content, or published research data.
 
                 b) A medium-risk asset: A medium-risk asset might include information that's not available to the public and may cause some damage to the organization's finances, reputation, or ongoing operations. 
-                For example, the early release of a company's quarterly earnings could impact the value of their stock
+                For example, the early release of a company's quarterly earnings could impact the value of their stock.
+
+                c) A high-risk asset: A high-risk asset is any information protected by regulations or laws, which if compromised, would have a severe negative impact on an organization's finances, ongoing operations, or reputation. 
+                This could include leaked assets with SPII, PII, or intellectual property.
